@@ -30,7 +30,7 @@ body {
     overflow: hidden;
 }
 header {
-    background: black;
+    background: #a59f9f;
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
@@ -76,8 +76,8 @@ header #branding h1 {
 }
 footer {
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 150px;
     color: #ffffff;
-    background-color: #4CAF50;
+    background-color: #a59f9f;
     text-align: center;
 }
